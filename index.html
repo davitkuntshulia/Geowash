@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GeoWash Georgia Parking Opportunity Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="Location controls">
+        <header class="brand">
+          <img class="brand-logo" src="assets/geowash-logo.png" alt="GeoWash logo">
+          <div>
+            <h1>GeoWash Georgia</h1>
+            <p>Parking Opportunity Map</p>
+          </div>
+        </header>
+
+        <section class="controls" aria-label="Search and filters">
+          <label class="search-label" for="searchInput">Search locations</label>
+          <input id="searchInput" type="search" placeholder="Search by name, address, category">
+
+          <div class="filter-group" aria-label="Importance filters">
+            <button class="filter-button active" type="button" data-filter="All">All</button>
+            <button class="filter-button" type="button" data-filter="High">High</button>
+            <button class="filter-button" type="button" data-filter="Medium">Medium</button>
+            <button class="filter-button" type="button" data-filter="Light">Light</button>
+          </div>
+        </section>
+
+        <section class="summary" aria-live="polite">
+          <span id="resultCount">0 locations</span>
+          <span class="summary-dot"></span>
+          <span>Tbilisi, Georgia</span>
+        </section>
+
+        <nav id="locationList" class="location-list" aria-label="GeoWash locations"></nav>
+
+        <footer class="sidebar-footer">
+          <img src="assets/geowash-equipment.png" alt="GeoWash compact waterless service equipment">
+          <p>Waterless, compact, eco-friendly mobile service potential.</p>
+        </footer>
+      </aside>
+
+      <section class="map-panel" aria-label="Tbilisi map">
+        <div id="map"></div>
+        <div class="legend" aria-label="Map legend">
+          <span><i class="legend-swatch high"></i>High</span>
+          <span><i class="legend-swatch medium"></i>Medium</span>
+          <span><i class="legend-swatch light"></i>Light</span>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
