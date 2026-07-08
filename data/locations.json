@@ -7,8 +7,8 @@
     "status": "უფასო",
     "potential": "Stay: 2.5 საათი; commercial potential: უმაღლესი; recommended wash: მშრალი (ეკო) / სტანდარტული.",
     "importance": "High",
-    "lat": 41.7866,
-    "lng": 44.7721
+    "lat": 41.81653,
+    "lng": 44.772709
   },
   {
     "name": "ისთ ფოინთი (East Point)",
@@ -18,8 +18,8 @@
     "status": "უფასო",
     "potential": "Stay: 3 საათი; commercial potential: უმაღლესი; recommended wash: სტანდარტული (ღია სივრცე).",
     "importance": "High",
-    "lat": 41.6942,
-    "lng": 44.8957
+    "lat": 41.68967,
+    "lng": 44.896561
   },
   {
     "name": "სითი მოლი საბურთალო",
@@ -29,8 +29,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 2 საათი; commercial potential: უმაღლესი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "High",
-    "lat": 41.7255,
-    "lng": 44.7389
+    "lat": 41.724383,
+    "lng": 44.735658
   },
   {
     "name": "გალერია თბილისი",
@@ -40,8 +40,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1.5 საათი; commercial potential: უმაღლესი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "High",
-    "lat": 41.6938,
-    "lng": 44.8017
+    "lat": 41.694964,
+    "lng": 44.799834
   },
   {
     "name": "ლისის ტბის პარკინგი (Gymnasia)",
@@ -73,8 +73,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: პრემიუმ სეგმენტი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "High",
-    "lat": 41.7082,
-    "lng": 44.7542
+    "lat": 41.711863,
+    "lng": 44.767138
   },
   {
     "name": "კუს ტბის პარკინგი",
@@ -95,8 +95,8 @@
     "status": "უფასო / ფასიანი ეზო",
     "potential": "Stay: 1.5 საათი; commercial potential: მაღალი აქტივობა; recommended wash: მშრალი / ეკო რეცხვა.",
     "importance": "High",
-    "lat": 41.7102,
-    "lng": 44.8021
+    "lat": 41.717672,
+    "lng": 44.796783
   },
   {
     "name": "Fit Club by ARTHOUSE",
@@ -106,8 +106,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 2 საათი; commercial potential: Luxury სეგმენტი; recommended wash: პრემიუმ მშრალი დეტეილინგი.",
     "importance": "High",
-    "lat": 41.6909,
-    "lng": 44.8015
+    "lat": 41.697087,
+    "lng": 44.800111
   },
   {
     "name": "ოლიმპიური სასახლე",
@@ -117,8 +117,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1.5 საათი; commercial potential: მაღალი; recommended wash: სტანდარტული / ეკო რეცხვა.",
     "importance": "High",
-    "lat": 41.7174,
-    "lng": 44.7186
+    "lat": 41.718045,
+    "lng": 44.726769
   },
   {
     "name": "GYM13",
@@ -128,8 +128,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: მაღალი; recommended wash: სტანდარტული (გარე).",
     "importance": "High",
-    "lat": 41.6928,
-    "lng": 44.8259
+    "lat": 41.692904,
+    "lng": 44.820569
   },
   {
     "name": "GOLD'S GYM",
@@ -139,8 +139,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: მაღალი; recommended wash: სტანდარტული / ეკო რეცხვა.",
     "importance": "High",
-    "lat": 41.7485,
-    "lng": 44.7783
+    "lat": 41.754613,
+    "lng": 44.777454
   },
   {
     "name": "Go Fitness",
@@ -150,8 +150,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: მაღალი; recommended wash: მშრალი / ეკო რეცხვა.",
     "importance": "High",
-    "lat": 41.7728,
-    "lng": 44.7908
+    "lat": 41.756453,
+    "lng": 44.78834
   },
   {
     "name": "ფაბრიკა (Fabrika)",
@@ -161,8 +161,8 @@
     "status": "ფასიანი / უფასო",
     "potential": "Stay: 2 საათი; commercial potential: მაღალი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "High",
-    "lat": 41.7089,
-    "lng": 44.8039
+    "lat": 41.709559,
+    "lng": 44.802776
   },
   {
     "name": "რიყის პარკის პარკინგი",
@@ -183,8 +183,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1 საათი; commercial potential: სტაბილური ნაკადი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "Medium",
-    "lat": 41.7212,
-    "lng": 44.7981
+    "lat": 41.722578,
+    "lng": 44.796442
   },
   {
     "name": "ორბელიანის მოედნის პარკინგი",
@@ -194,8 +194,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1 საათი; commercial potential: სტაბილური ნაკადი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "Medium",
-    "lat": 41.6978,
-    "lng": 44.8017
+    "lat": 41.694937,
+    "lng": 44.802241
   },
   {
     "name": "ისანი მოლი / კარფური",
@@ -205,8 +205,8 @@
     "status": "უფასო (2 სთ)",
     "potential": "Stay: 50 წუთი; commercial potential: სწრაფი ბრუნვა; recommended wash: მშრალი / ეკო რეცხვა.",
     "importance": "Medium",
-    "lat": 41.6832,
-    "lng": 44.8468
+    "lat": 41.68301,
+    "lng": 44.841121
   },
   {
     "name": "მთაწმინდის პარკის ავტოსადგომი",
@@ -227,8 +227,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 2 საათი; commercial potential: კორპორატიული; recommended wash: მშრალი / ორთქლის რეცხვა.",
     "importance": "High",
-    "lat": 41.7441,
-    "lng": 44.7797
+    "lat": 41.73839,
+    "lng": 44.780508
   },
   {
     "name": "აქსის თაუერსი (Axis Towers)",
@@ -238,8 +238,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1 საათი; commercial potential: პრემიუმ კლიენტები; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "High",
-    "lat": 41.7099,
-    "lng": 44.7545
+    "lat": 41.711801,
+    "lng": 44.758379
   },
   {
     "name": "Padel Island EXPO Park",
@@ -249,8 +249,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1.5 საათი; commercial potential: სტაბილური; recommended wash: სტანდარტული (გარე).",
     "importance": "High",
-    "lat": 41.7447,
-    "lng": 44.7808
+    "lat": 41.73973,
+    "lng": 44.778088
   },
   {
     "name": "სითი მოლი გლდანი",
@@ -260,8 +260,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 1 საათი; commercial potential: სტაბილური; recommended wash: მშრალი / ეკო რეცხვა.",
     "importance": "Medium",
-    "lat": 41.7925,
-    "lng": 44.8172
+    "lat": 41.791617,
+    "lng": 44.81546
   },
   {
     "name": "ჰიპერმარკეტი დომინო",
@@ -271,8 +271,8 @@
     "status": "უფასო",
     "potential": "Stay: 1 საათი; commercial potential: სტაბილური; recommended wash: სტანდარტული (გარე).",
     "importance": "Medium",
-    "lat": 41.6923,
-    "lng": 44.8987
+    "lat": 41.693128,
+    "lng": 44.900812
   },
   {
     "name": "სასტუმრო რედისონ ბლუ ივერია",
@@ -282,8 +282,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 2 საათი; commercial potential: მაღალბიუჯეტიანი; recommended wash: პრემიუმ მშრალი რეცხვა.",
     "importance": "High",
-    "lat": 41.7032,
-    "lng": 44.7922
+    "lat": 41.703922,
+    "lng": 44.793569
   },
   {
     "name": "თბილისის საერთაშორისო აეროპორტი",
@@ -293,8 +293,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 24+ საათი; commercial potential: საშუალო; recommended wash: ხანგრძლივი დეტეილინგი.",
     "importance": "High",
-    "lat": 41.6692,
-    "lng": 44.9547
+    "lat": 41.668546,
+    "lng": 44.955934
   },
   {
     "name": "პეკინისა და მიცკევიჩის კვეთა",
@@ -326,8 +326,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.2 საათი; commercial potential: საშუალო; recommended wash: სტანდარტული (გარე).",
     "importance": "Medium",
-    "lat": 41.7582,
-    "lng": 44.7693
+    "lat": 41.743337,
+    "lng": 44.769601
   },
   {
     "name": "ნიუტონის თავისუფალი სკოლა",
@@ -337,8 +337,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.2 საათი; commercial potential: საშუალო; recommended wash: სტანდარტული (გარე).",
     "importance": "Medium",
-    "lat": 41.7199,
-    "lng": 44.7219
+    "lat": 41.720067,
+    "lng": 44.708038
   },
   {
     "name": "სასტუმრო მოქსი (Moxy Hotel)",
@@ -348,8 +348,8 @@
     "status": "ფასიანი",
     "potential": "Stay: 2 საათი; commercial potential: მცირე ფართობი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "Light",
-    "lat": 41.7047,
-    "lng": 44.8024
+    "lat": 41.702714,
+    "lng": 44.804505
   },
   {
     "name": "დინამოს აკადემია (კალათბურთი)",
@@ -359,8 +359,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: ლოკალური; recommended wash: მშრალი / ეკო რეცხვა.",
     "importance": "Light",
-    "lat": 41.7242,
-    "lng": 44.7879
+    "lat": 41.759663,
+    "lng": 44.774852
   },
   {
     "name": "Padel Academy (ქავთარაძე)",
@@ -370,8 +370,8 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: მცირე ფართობი; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "Light",
-    "lat": 41.7178,
-    "lng": 44.7434
+    "lat": 41.721494,
+    "lng": 44.732075
   },
   {
     "name": "ზაზა ფაჩულიას აკადემია",
@@ -381,7 +381,7 @@
     "status": "უფასო",
     "potential": "Stay: 1.5 საათი; commercial potential: ლოკალური; recommended wash: მშრალი (ეკო რეცხვა).",
     "importance": "Light",
-    "lat": 41.7407,
-    "lng": 44.7819
+    "lat": 41.742295,
+    "lng": 44.780316
   }
 ]
